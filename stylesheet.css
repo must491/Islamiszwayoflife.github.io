@@ -1,5 +1,5 @@
 body { 
-    background-image: url(rose (1).jpeg);
+   background: url("../images/rose.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
