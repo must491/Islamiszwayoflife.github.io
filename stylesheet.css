@@ -1,0 +1,26 @@
+body { 
+    background-image: url(rose.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    color: #ffffff;
+}
+h1{ color:#ffffff;
+}
+h2{
+    color: #ffffff; 
+}
+h3{
+    color: #ffffff;
+}
+
+li{
+color:#ffffff;
+
+}
+
+
